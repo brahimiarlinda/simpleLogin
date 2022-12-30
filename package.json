@@ -9,7 +9,7 @@
   "author": "Arlinda Brahimi",
   "license": "ISC",
   "devDependencies": {
-    "codeceptjs": "^2.6.2",
+    "codeceptjs": "^3.0.0",
     "puppeteer": "^3.0.1"
   },
   "dependencies": {
